@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    color: white;
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1{
+    color: goldenrod;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 48px;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkorange;
+}
+
+#stage {
+    font-size: 40px;
+    font-style: italic;
+    margin: 20px 0; 
+    color: goldenrod;
+}
+
